@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+#neugs_generatedtags {
+	margin-left: 12px;
+}
+
+#tagchecklist span {
+	clear: both;
+	margin-left: 10px;
+}
+
+#neugs_generatedtags > span {
+	cursor:default;
+	display:block;
+	float:left;
+	font-size:11px;
+	line-height:1.8em;
+	margin-right:25px;
+	white-space:nowrap;
+	clear: both;
+	margin-left: 10px;
+}
+
+#neugs_generatedtags span a {
+	cursor:pointer;
+	display:block;
+	float:left;
+	height:11px;
+	margin:5px 0pt 0pt -15px;
+	overflow:hidden;
+	position:absolute;
+	text-indent:-9999px;
+	width:15px;
+}
+
+.neugs_blueswuarebuttonarea {
+	background:#EAF2FA none repeat scroll 0% 0%;border-top:medium none; clear:both; padding:6px;
+}	
